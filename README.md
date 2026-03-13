@@ -50,7 +50,7 @@ My background in <b>Java, Selenium, and API testing</b> helps me understand reli
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://www.linkedin.com/in/mohsin-khan888" target="_blank">
+      <a href="https://www.linkedin.com/in/mohsin-khan888">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
       </a>
     </td>
@@ -61,7 +61,6 @@ My background in <b>Java, Selenium, and API testing</b> helps me understand reli
     </td>
   </tr>
 </table>
-
 </td>
 
 <td width="35%" align="center">
