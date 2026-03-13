@@ -10,7 +10,7 @@ Master’s student in Data Science with experience in Automation Software Testin
 - Exploring cloud and scalable systems
 
 ## 🛠️ Tools I Use
-Java • Python • Selenium • REST APIs • Pandas • Scikit-learn • Jupyter • Terraform • Git
+Java • Python • Selenium • Postman • VS Code • REST APIs • Pandas • Scikit-learn • TensorFlow • Keras • Matplotlib • Plotly • Jupyter • Terraform • Azure • Bash Scripting • Streamlit • HTML/CSS • Git
 
 ## 📫 Reach Me
 LinkedIn: www.linkedin.com/in/mohsin-khan888 
