@@ -64,8 +64,6 @@ My background in <b>Java, Selenium, and API testing</b> helps me understand reli
 
 </td>
 
-<td width="35%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</td>
+
 </tr>
 </table>
