@@ -1,16 +1,17 @@
 ## Hi there 👋
+I'm Mohsin Khan
 
-<!--
-**m0xhsin/m0xhsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who Am I?
+Master’s student in Data Science with experience in Automation Software Testing. Passionate about building machine learning models, automation solutions, and data-driven systems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- Machine Learning projects and model training  
+- Data analysis and AI applications  
+- Exploring cloud and scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I Use
+Java • Python • Selenium • REST APIs • Pandas • Scikit-learn • Jupyter • Terraform • Git
+
+## 📫 Reach Me
+LinkedIn: www.linkedin.com/in/mohsin-khan888 
+Email: moxhsin.k@gmail.com
