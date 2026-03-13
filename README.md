@@ -55,7 +55,7 @@ My background in <b>Java, Selenium, and API testing</b> helps me understand reli
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="mailto:moxhsin.k@gmail.com" target="_blank">
+      <a href="mailto:moxhsin.k@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
       </a>
     </td>
