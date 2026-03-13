@@ -44,6 +44,7 @@ My background in <b>Java, Selenium, and API testing</b> helps me understand reli
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
 </p>
+<p>Python • Java • HTML • CSS • Pandas • NumPy • Scikit-learn • TensorFlow • Keras • Matplotlib • VS Code • Git • Bash Scripting • Azure • Terraform </p>
 
 <h2>📫 Reach Me</h2>
 
